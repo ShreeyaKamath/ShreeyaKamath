@@ -1,63 +1,68 @@
 <div align="center">
 
-![The Midnight Glasshouse — animated moonlit conservatory](assets/midnight-glasshouse.svg)
+<a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M"><img src="https://images.unsplash.com/photo-1720470331470-2d6d2fcbc5a7?auto=format&fit=crop&w=1600&q=85" width="100%" alt="Authentic astrophotography: star-filled night sky above a mountain, photographed by Sharad Bhat"/></a>
 
-# ✧ Welcome to the Midnight Glasshouse ✧
+<br/>
 
-*Some ideas bloom quietly. Others change everything.*
+# Shreeya Kamath
 
-[![Garden visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=glasshouse%20visitors&color=a783b6&style=flat-square)](https://github.com/ShreeyaKamath)
+*research, engineering & a little wonder*
 
-**AI Research · Responsible Machine Learning · Agentic Systems · Software Engineering**
+**Artificial Intelligence · Responsible ML · Agentic Systems · Software Engineering**
 
-[🌸 Explore the garden](#-the-garden-of-projects) · [🔭 Research](#-the-observatory) · [🪴 Toolkit](#-the-workbench) · [🌙 All repositories](https://github.com/ShreeyaKamath?tab=repositories)
+[![Garden visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=visitors&color=8c9d89&style=flat-square)](https://github.com/ShreeyaKamath)
+
+[**Selected work**](#selected-work) &nbsp;·&nbsp; [**Research interests**](#research-interests) &nbsp;·&nbsp; [**Toolbox**](#toolbox) &nbsp;·&nbsp; [**GitHub**](https://github.com/ShreeyaKamath?tab=repositories)
+
+<img src="assets/botanical-constellation.svg" width="88%" alt="Animated hand-drawn wildflower constellation"/>
 
 </div>
 
----
+### A note from the field
 
-### 🌙 Hello, I'm Shreeya
+I'm interested in the point where **mathematical ideas become useful systems**. My work moves between probabilistic inference, fairness-aware machine learning, agentic applications, and software engineering.
 
-I build at the intersection of **artificial intelligence, thoughtful engineering, and real-world problems**. I enjoy translating ideas into working systems — from probabilistic inference and fairness-aware ML to multi-agent applications.
+I like asking not only *can we build this?* but also *how do we know it works, and can we trust the outcome?*
 
-I care about how intelligent systems work, how we evaluate them, and whether we can trust their decisions.
+### Selected work
 
-### 🌷 The garden of projects
-
-*Five pathways through the glasshouse. Each one leads to a real repository.*
-
-| Pathway | Project | What you'll discover |
+| Field note | Project | Focus |
 |:--|:--|:--|
-| 🌸 **The Fairness Grove** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under computational inference constraints |
-| 🦋 **The Agent Conservatory** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
-| 🌷 **The Responsible AI Meadow** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
-| 🍃 **The Engineering Greenhouse** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management with C# Windows Forms and SQL Server |
-| ✨ **The Learning Pavilion** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Interactive educational software |
+| **01 · Inference & fairness** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under constrained inference |
+| **02 · Multi-agent research** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Clinical decision-support research with multiple agents |
+| **03 · Responsible AI** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
+| **04 · Applied engineering** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management with C# Windows Forms and SQL Server |
+| **05 · Interactive learning** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software |
 
-### 🔭 The observatory
+### Research interests
 
-- **Research interests:** machine learning, probabilistic models, trustworthy AI, fairness evaluation
-- **Things I build:** LLM-based systems, multi-agent workflows, software applications
-- **How I work:** question → design → prototype → evaluate → improve
-- **Currently exploring:** AI & Decision Science, reproducible research, and applied engineering
+`Probabilistic graphical models` &nbsp; `Fairness evaluation` &nbsp; `Trustworthy AI` &nbsp; `Machine learning` &nbsp; `LLMs` &nbsp; `Multi-agent systems`
 
-### 🪴 The workbench
+### Toolbox
 
-`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter`
+**Languages** — Python · C# · SQL · HTML/CSS
+
+**AI & research** — Machine Learning · Probabilistic Models · Fairness Evaluation · Jupyter
+
+**Engineering** — Git · GitHub · Docker · SQL Server
 
 <details>
-<summary>🗝️ A secret door: how the glasshouse comes alive</summary>
+<summary><b>✿ Open the field journal</b></summary>
 
-The scene above is an **animated SVG**: clouds drift, stars twinkle, flowers gently sway, the moon glows, and a butterfly floats through the conservatory. The animation does **not** depend on commits, contribution streaks, or daily activity. It's designed to be beautiful even during quiet periods of research and learning.
+I enjoy working across theory and implementation: developing an idea, building a prototype, running experiments, understanding limitations, and improving the design.
 
-GitHub README pages don't run custom JavaScript, so the scene uses lightweight SVG animation instead. For an interactive 3D garden, a separate website would be needed.
+The wildflower above is a small, hand-authored animated SVG: its stems draw themselves and the blossom gently breathes. It's intentionally independent of GitHub contribution counts.
 
 </details>
 
 <div align="center">
 
----
+<img src="assets/botanical-constellation.svg" width="65%" alt="Botanical closing ornament"/>
 
-*✧ Stay curious. Build with care. Let ideas bloom. ✧*
+<sub>Night-sky photograph by <a href="https://unsplash.com/@sharadmbhat">Sharad Bhat</a> on <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M">Unsplash</a>, used under the Unsplash License.</sub>
+
+<br/><br/>
+
+*Stay curious. Build with care.*
 
 </div>
