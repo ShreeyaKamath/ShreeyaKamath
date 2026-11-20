@@ -1,6 +1,6 @@
 <div align="center">
 
-![Where the Stars Meet the Sea — animated midnight shoreline](assets/midnight-shore.svg)
+![Where the Stars Meet the Sea — a moonlit animated shoreline beneath a field of stars](assets/midnight-shore.svg)
 
 # Shreeya Kamath
 
@@ -8,65 +8,51 @@
 
 *Exploring intelligence, one constellation at a time.*
 
-**AI Research · Responsible Machine Learning · Agentic Systems · Software Engineering**
+**Artificial Intelligence · Machine Learning · Generative AI · Intelligent Systems · Software Development**
 
 [![Profile visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=visitors&color=536d86&style=flat-square)](https://github.com/ShreeyaKamath)
 
-[Selected projects](#selected-projects) · [Research interests](#beneath-the-surface) · [Toolkit](#my-toolkit) · [Repositories](https://github.com/ShreeyaKamath?tab=repositories)
+[Projects](#selected-projects) · [Interests](#current-orbit) · [Toolkit](#toolkit) · [Repositories](https://github.com/ShreeyaKamath?tab=repositories)
 
 </div>
 
 ## About me
 
-I explore the space between **mathematical ideas and systems that work in the real world**. My interests include probabilistic inference, fairness-aware machine learning, LLMs, and multi-agent systems. I care about how intelligent systems are built—and how we evaluate whether their decisions are reliable and responsible.
+I'm passionate about AI and Machine Learning, and curious about what thoughtful technology can make possible. I enjoy experimenting with new ideas, turning them into meaningful projects, and learning through the process of building. My interests span Generative AI, intelligent systems, and software development—but my curiosity is never limited to one field.
+
+<div align="center">
+  <img src="assets/celestial-divider.svg" width="88%" alt="A slim moonlit wave and constellation divider" />
+</div>
 
 ## Selected projects
 
-*Five points of light in an evolving constellation.*
-
-| Constellation | Project | Focus |
-|:--|:--|:--|
-| **01 · Inference** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Evaluating fairness when probabilistic inference must operate under limited computation |
-| **02 · Agents** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support designed around trustworthy reasoning |
-| **03 · Responsibility** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Exploring fairness-aware AI through an education-focused application |
-| **04 · Engineering** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Desktop document management built with C# Windows Forms and SQL Server |
-| **05 · Learning** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Interactive educational software centered on accessible learning experiences |
+|  | Project | What it explores |
+|:--:|:--|:--|
+| **01** | [**Fairness Preservation Under Computational Budgets**](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware Bayesian-network inference when computation and evidence are constrained |
+| **02** | [**MedTrust**](https://github.com/ShreeyaKamath/MedTrust) | A zero-trust, provenance-aware multi-agent framework for clinical decision support |
+| **03** | [**FAIRPATH-EDU**](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Causal and counterfactual fairness auditing for early student-risk prediction using OULAD |
+| **04** | [**ManipalDMS**](https://github.com/ShreeyaKamath/ManipalDMS) | A C# and SQL Server document-management application with role-based access and audit logging |
+| **05** | [**Interactive Learning Platform**](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | A responsive learning experience with video lessons, quizzes, accessibility, and local progress tracking |
 
 <div align="center">
-
-<img src="assets/constellation-of-ideas.svg" width="80%" alt="An animated constellation of connected research ideas" />
-
-<sub>A visual metaphor for connected ideas, not a running machine-learning model.</sub>
-
+  <img src="assets/constellation-of-ideas.svg" width="82%" alt="An animated constellation connecting five fields of exploration" />
 </div>
 
-## Beneath the surface
+## Current orbit
 
-**Probabilistic graphical models** · **Fairness evaluation** · **Trustworthy AI** · **Machine learning** · **LLMs** · **Multi-agent systems**
+**Artificial Intelligence & Machine Learning** · **Generative AI & LLMs** · **Multi-agent Systems**<br>
+**Responsible AI & Fairness** · **Probabilistic Graphical Models** · **Software Development**
 
-My work often returns to the same questions: *What assumptions does a model make? What trade-offs does a system introduce? How can we test the results?*
+## Toolkit
 
-## My toolkit
-
-| Area | Tools and concepts |
-|:--|:--|
-| **Languages** | Python · C# · SQL · HTML/CSS |
-| **AI & research** | Machine learning · Probabilistic models · Fairness evaluation · Jupyter |
-| **Engineering** | Git · GitHub · Docker · SQL Server |
-
-<details>
-<summary><b>Notes from the observatory</b></summary>
-
-The midnight-shore artwork and constellation are original SVG illustrations with subtle, independent animations. They do not use JavaScript, contribution counts, or commit streaks. GitHub may render some SVG animation differently across platforms; both images have meaningful static compositions.
-
-</details>
+| Languages | AI & exploration | Engineering |
+|:--|:--|:--|
+| `Python` · `C#` · `SQL` · `HTML/CSS` | `Machine Learning` · `LLMs` · `Jupyter` | `Git` · `GitHub` · `Docker` · `SQL Server` |
 
 <div align="center">
+  <img src="assets/celestial-divider.svg" width="88%" alt="A slim moonlit wave and constellation divider" />
 
----
+  *Stay curious. Build with care. Keep looking beyond the horizon.*
 
-*Stay curious. Build with care. Keep looking beyond the horizon.*
-
-[Explore all repositories](https://github.com/ShreeyaKamath?tab=repositories)
-
+  [Explore all repositories](https://github.com/ShreeyaKamath?tab=repositories)
 </div>

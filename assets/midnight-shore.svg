@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="800" viewBox="0 0 1600 800" role="img" aria-labelledby="title desc">
-<title id="title">Where the Stars Meet the Sea — Shreeya Kamath</title><desc id="desc">Original animated midnight shoreline artwork with stars, crescent moon, subtle constellation, and moving waves. Motion is decorative.</desc>
+<title id="title">Where the Stars Meet the Sea — Shreeya Kamath</title><desc id="desc">A cinematic midnight shoreline with a crescent moon, quiet stars, a distant constellation, and slow moonlit waves.</desc>
+<style>@media (prefers-reduced-motion: reduce){animate,animateTransform{display:none}}</style>
 <defs>
  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050d1d"/><stop offset=".5" stop-color="#13263e"/><stop offset=".79" stop-color="#3b4d66"/><stop offset="1" stop-color="#202c3d"/></linearGradient>
  <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2e4057"/><stop offset=".45" stop-color="#17283d"/><stop offset="1" stop-color="#071421"/></linearGradient>
@@ -33,6 +34,6 @@
 <text x="112" y="288" fill="#fff7e9" font-family="Georgia, 'Times New Roman', serif" font-size="80">Shreeya Kamath</text>
 <text x="112" y="352" fill="#e8d8d5" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="36">Where the Stars Meet the Sea</text>
 <path d="M112 383H675" stroke="#c7cbbd" stroke-width="1" opacity=".7"/>
-<text x="112" y="426" fill="#d5e1e2" font-family="Arial, sans-serif" font-size="17" letter-spacing="1.7">AI RESEARCH  /  RESPONSIBLE ML  /  AGENTIC SYSTEMS  /  ENGINEERING</text>
+<text x="112" y="426" fill="#d5e1e2" font-family="Arial, sans-serif" font-size="16" letter-spacing="1.55">AI  /  MACHINE LEARNING  /  GENERATIVE AI  /  SOFTWARE DEVELOPMENT</text>
 <text x="112" y="478" fill="#d5d8d3" font-family="Georgia,serif" font-size="23" font-style="italic">Exploring intelligence, one constellation at a time.</text>
 </svg>
