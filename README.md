@@ -1,54 +1,63 @@
 <div align="center">
 
-![The Sky That Remembers — living celestial banner](assets/living-sky.svg)
+![The Living Forest — a contribution-powered enchanted garden](assets/living-forest.svg)
 
-# ✧ Shreeya Kamath ✧
+# 🌿 Welcome to my little corner of the forest
 
-*Somewhere between research, imagination, and code.*
+*Where curious ideas take root, and thoughtful systems grow.*
+
+[![Visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=garden%20visitors&color=6caa8e&style=flat-square)](https://github.com/ShreeyaKamath)
 
 **AI / ML · Responsible AI · Agentic Systems · Software Engineering**
 
-[![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=sky%20visitors&color=8f77bd&style=flat-square)](https://github.com/ShreeyaKamath)
-
-**[✦ Explore my projects](#-constellations-of-work) · [☾ Research interests](#-inside-the-observatory) · [✧ Toolkit](#-tools-in-my-orbit) · [↗ All repositories](https://github.com/ShreeyaKamath?tab=repositories)**
+[🌸 **Explore the garden**](#-the-research-garden) · [🔬 **Research notes**](#-what-im-exploring) · [🧰 **My toolkit**](#-the-gardeners-toolkit) · [🌱 **All repositories**](https://github.com/ShreeyaKamath?tab=repositories)
 
 </div>
 
 ---
 
-### ✨ A little about me
+### 🌱 A note from the gardener
 
-I turn complex questions into thoughtful, working systems — from **probabilistic inference and fairness-aware ML** to **multi-agent applications** and practical software engineering.
+I'm **Shreeya**. I like turning complicated questions into systems that actually work — especially at the intersection of **probabilistic inference, responsible machine learning, agentic AI, and software engineering**.
 
-I care about what an intelligent system *does*, how we *evaluate* it, and whether we can *trust* its decisions.
+I care about how we build intelligent systems, how we evaluate them, and whether their decisions deserve our trust.
 
-### 🌌 Constellations of work
+### 🌺 The research garden
 
-| Constellation | Explore | What it investigates |
+*Every flower leads to a real project. Pick one to explore.*
+
+| Garden trail | Project | What grows here |
 |:--|:--|:--|
-| ✦ **Inference & fairness** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under inference constraints |
-| ☾ **Agentic intelligence** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
-| ✧ **Responsible AI** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
-| ☁️ **Software engineering** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | C# Windows Forms and SQL Server document management |
-| 🌠 **Interactive systems** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software development |
+| 🌸 **The Fairness Grove** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under probabilistic inference constraints |
+| 🦋 **The Agent Conservatory** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
+| 🌷 **The Responsible AI Meadow** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
+| 🍃 **The Engineering Greenhouse** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management with C# Windows Forms and SQL Server |
+| 🌼 **The Learning Garden** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Interactive educational software |
 
-### 🔭 Inside the observatory
+### 🔬 What I'm exploring
 
-- **Research:** machine learning, probabilistic models, fairness evaluation, trustworthy AI
-- **Building:** LLMs, agentic workflows, applied AI and software engineering
-- **Approach:** question → prototype → experiment → evaluate → improve
-- **Currently:** studying AI & Decision Science, building projects, and exploring reproducible research
+- **Research:** machine learning, probabilistic graphical models, trustworthy AI, fairness evaluation
+- **Building:** LLMs, multi-agent systems, practical software engineering
+- **Approach:** question → design → implement → experiment → evaluate
+- **Currently:** studying AI & Decision Science and growing through research and projects
 
-### 🪐 Tools in my orbit
+### 🧰 The gardener's toolkit
 
-`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter`
+`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter Notebooks`
 
 <details>
-<summary>☁️ Open a cloud: the research philosophy behind my work</summary>
+<summary>🍄 Discover the secret behind the living forest</summary>
 
-I like the intersection of **mathematical ideas and working systems**. My interests include inference under constraints, evaluation beyond accuracy, responsible AI, and building software that makes complex ideas useful.
+**This garden is connected to real GitHub activity.**
 
-The sky illustration above is an animated SVG. A GitHub Actions workflow refreshes its star field using **public GitHub contribution-calendar data**. The displayed contribution count is not a claim about commits alone: GitHub contributions can include other qualifying activity.
+- 🌿 Each contribution day can grow additional leaves and blossoms, up to a visual limit.
+- 🌺 Higher-activity days influence flower size and color.
+- ✨ Activity during the last seven days determines the number of animated fireflies.
+- 🌙 The moon, mist, and gentle animations create a living nighttime garden.
+
+A scheduled GitHub Actions workflow uses GitHub's contribution calendar to regenerate the SVG. **Contributions are not identical to commits**: GitHub may count other qualifying activity. The forest is an artistic visualization, not a precise contribution chart.
+
+*The design uses SVG because GitHub README pages don't allow arbitrary JavaScript.*
 
 </details>
 
@@ -56,6 +65,6 @@ The sky illustration above is an animated SVG. A GitHub Actions workflow refresh
 
 ---
 
-*✧ Stay curious. Build with purpose. Leave a little light behind. ✧*
+*🌱 Keep learning. Keep building. Let good ideas grow. 🌸*
 
 </div>
