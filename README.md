@@ -1,62 +1,54 @@
 <div align="center">
 
-![Living Sketchbook banner](assets/sketchbook-banner.svg)
+![The Sky That Remembers — living celestial banner](assets/living-sky.svg)
 
-# ✏️ Shreeya Kamath
+# ✧ Shreeya Kamath ✧
 
-### 🌸 A collection of questions, experiments & things I've built.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=269EAA&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Research;Building+intelligent%2C+responsible+systems;Software+Engineering+%E2%80%A2+Applied+AI;Always+learning.+Always+building.)](https://git.io/typing-svg)
-
-![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=Sketchbook%20visitors&color=9c88b9&style=flat-square)
+*Somewhere between research, imagination, and code.*
 
 **AI / ML · Responsible AI · Agentic Systems · Software Engineering**
 
-*I enjoy turning complex ideas into thoughtful, working systems — from probabilistic inference and fairness-aware ML to multi-agent applications.*
+[![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=sky%20visitors&color=8f77bd&style=flat-square)](https://github.com/ShreeyaKamath)
 
----
-
-### 📖 Open the living sketchbook
-
-**Turn a page, explore a project ↓**
-
-[✏️ **Open the interactive Living Sketchbook**](https://shreeyakamath.github.io/ShreeyaKamath/) · [View source](https://github.com/ShreeyaKamath/ShreeyaKamath/blob/main/index.html)
-
-[📓 **Research Notes**](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) · [🖋️ **Agent Notes**](https://github.com/ShreeyaKamath/MedTrust) · [🌸 **Fairness Studies**](https://github.com/ShreeyaKamath/FAIRPATH-EDU)
-
-[📐 **Engineering Sketches**](https://github.com/ShreeyaKamath/ManipalDMS) · [🎨 **Learning Pages**](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) · [🔎 **All Repositories**](https://github.com/ShreeyaKamath?tab=repositories)
-
-<sub>Tap a notebook entry to visit a real project.</sub>
+**[✦ Explore my projects](#-constellations-of-work) · [☾ Research interests](#-inside-the-observatory) · [✧ Toolkit](#-tools-in-my-orbit) · [↗ All repositories](https://github.com/ShreeyaKamath?tab=repositories)**
 
 </div>
 
-## ✿ What I'm exploring
+---
 
-- 🎓 Studying **AI & Decision Science**.
-- 🐚 Exploring **machine learning, fairness, probabilistic inference, and trustworthy AI**.
-- 🌊 Building with **LLMs, multi-agent systems, and applied software engineering**.
-- 🏄 Growing through research, experiments, and open-source learning.
+### ✨ A little about me
 
-## 📓 Featured research & projects
+I turn complex questions into thoughtful, working systems — from **probabilistic inference and fairness-aware ML** to **multi-agent applications** and practical software engineering.
 
-| Notebook page | Project | What it explores |
+I care about what an intelligent system *does*, how we *evaluate* it, and whether we can *trust* its decisions.
+
+### 🌌 Constellations of work
+
+| Constellation | Explore | What it investigates |
 |:--|:--|:--|
-| 📓 Research Notes | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under inference constraints |
-| 🖋️ Agent Notes | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
-| 🌸 Fairness Studies | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
-| 📐 Engineering Sketches | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management software |
-| 🎨 Learning Pages | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software development |
+| ✦ **Inference & fairness** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under inference constraints |
+| ☾ **Agentic intelligence** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
+| ✧ **Responsible AI** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
+| ☁️ **Software engineering** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | C# Windows Forms and SQL Server document management |
+| 🌠 **Interactive systems** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software development |
 
-## 🧰 My toolkit
+### 🔭 Inside the observatory
 
-**Languages:** Python · C# · SQL · HTML/CSS  
-**AI & data:** Machine Learning · Probabilistic Models · Fairness Evaluation · LLMs  
-**Engineering:** Git · GitHub · Docker · SQL Server · Jupyter Notebooks
+- **Research:** machine learning, probabilistic models, fairness evaluation, trustworthy AI
+- **Building:** LLMs, agentic workflows, applied AI and software engineering
+- **Approach:** question → prototype → experiment → evaluate → improve
+- **Currently:** studying AI & Decision Science, building projects, and exploring reproducible research
+
+### 🪐 Tools in my orbit
+
+`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter`
 
 <details>
-<summary>✿ Unfold a notebook margin — what I'm interested in</summary>
+<summary>☁️ Open a cloud: the research philosophy behind my work</summary>
 
-I'm particularly interested in how to build AI systems that are **useful, reliable, interpretable, and fair**. I like the space where theoretical ML meets real implementations: experiments, evaluation, thoughtful architecture, and reproducible research.
+I like the intersection of **mathematical ideas and working systems**. My interests include inference under constraints, evaluation beyond accuracy, responsible AI, and building software that makes complex ideas useful.
+
+The sky illustration above is an animated SVG. A GitHub Actions workflow refreshes its star field using **public GitHub contribution-calendar data**. The displayed contribution count is not a claim about commits alone: GitHub contributions can include other qualifying activity.
 
 </details>
 
@@ -64,6 +56,6 @@ I'm particularly interested in how to build AI systems that are **useful, reliab
 
 ---
 
-*✏️ Stay curious. Build with care. Keep sketching new ideas. 🌸*
+*✧ Stay curious. Build with purpose. Leave a little light behind. ✧*
 
 </div>
