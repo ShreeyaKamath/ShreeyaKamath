@@ -1,5 +1,7 @@
 <div align="center">
 
+![Animated ocean waves](assets/beach-banner.svg)
+
 # 🌊 Shreeya Kamath
 
 ### 🐚 Somewhere between curiosity and code
@@ -17,6 +19,8 @@
 ### 🏝️ Explore the shoreline
 
 **Pick a beach stop to explore ↓**
+
+[🗺️ **Explore the interactive beach portfolio (source)**](https://github.com/ShreeyaKamath/ShreeyaKamath/blob/main/index.html)
 
 [🐚 **Research Cove**](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) · [🐬 **Agentic Reef**](https://github.com/ShreeyaKamath/MedTrust) · [🪸 **Fairness Coral**](https://github.com/ShreeyaKamath/FAIRPATH-EDU)
 
