@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-label="Midnight Glasshouse: animated moonlit garden above the clouds, with blooming flowers, butterflies and twinkling stars">
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#0b1230"/><stop offset=".58" stop-color="#30345e"/><stop offset="1" stop-color="#8a668f"/></linearGradient>
+<linearGradient id="glass" x2="0" y2="1"><stop stop-color="#b9e9ed" stop-opacity=".16"/><stop offset="1" stop-color="#d8e6fa" stop-opacity=".03"/></linearGradient>
+<linearGradient id="ground" x2="0" y2="1"><stop stop-color="#315c50"/><stop offset="1" stop-color="#152e35"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#fff3d4" stop-opacity=".48"/><stop offset="1" stop-color="#fff3d4" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="8"/></filter>
+<clipPath id="frame"><rect width="1200" height="480" rx="22"/></clipPath>
+<g id="flower"><path d="M0 0Q-7-35 0-75" fill="none" stroke="#8ab7a0" stroke-width="3"/><g transform="translate(0 -78)"><g fill="#eac0e8"><ellipse cx="0" cy="-13" rx="9" ry="17"/><ellipse cx="0" cy="-13" rx="9" ry="17" transform="rotate(72)"/><ellipse cx="0" cy="-13" rx="9" ry="17" transform="rotate(144)"/><ellipse cx="0" cy="-13" rx="9" ry="17" transform="rotate(216)"/><ellipse cx="0" cy="-13" rx="9" ry="17" transform="rotate(288)"/></g><circle r="8" fill="#ffdf94"/><animateTransform attributeName="transform" type="rotate" values="-6 0 0;6 0 0;-6 0 0" dur="7s" repeatCount="indefinite"/></g></g>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="480" fill="url(#sky)"/>
+<circle cx="1020" cy="93" r="92" fill="url(#halo)"><animate attributeName="opacity" values=".65;1;.65" dur="9s" repeatCount="indefinite"/></circle><circle cx="1020" cy="93" r="38" fill="#fff2d7"/><circle cx="1034" cy="82" r="36" fill="#293154"/>
+<g fill="#fff4ff"><circle cx="62" cy="57" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle><circle cx="182" cy="39" r="1.4"/><circle cx="365" cy="74" r="2"><animate attributeName="opacity" values="1;.1;1" dur="4s" repeatCount="indefinite"/></circle><circle cx="540" cy="42" r="1.4"/><circle cx="675" cy="81" r="1.8"/><circle cx="791" cy="35" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="5s" repeatCount="indefinite"/></circle><circle cx="1132" cy="42" r="2"/></g>
+<g stroke="#e6d6ff" stroke-width="1.2" opacity=".7" fill="none"><path d="M775 135L814 101L853 145L903 121" stroke-dasharray="240" stroke-dashoffset="240"><animate attributeName="stroke-dashoffset" from="240" to="0" dur="7s" fill="freeze"/></path></g><g fill="#f8e6ff"><circle cx="775" cy="135" r="3"/><circle cx="814" cy="101" r="3"/><circle cx="853" cy="145" r="3"/><circle cx="903" cy="121" r="3"/></g>
+<path d="M-40 420Q170 365 390 417T840 415T1240 410V480H-40Z" fill="#e4c8e4" opacity=".42"><animateTransform attributeName="transform" type="translate" values="-20 0;20 0;-20 0" dur="25s" repeatCount="indefinite"/></path>
+<g transform="translate(810 15)">
+<path d="M-200 340V170Q0-125 200 170V340Z" fill="url(#glass)" stroke="#b4e3dc" stroke-width="3" opacity=".85"/>
+<path d="M-170 340V184Q0-75 170 184V340M-115 340V180Q0 0 115 180V340M-60 340V150Q0 45 60 150V340M0 340V38" fill="none" stroke="#b8e1dc" stroke-width="2" opacity=".7"/>
+<path d="M-205 340H205" stroke="#b4e3dc" stroke-width="6"/>
+<path d="M-180 335Q-135 255-80 322T40 295T180 315" fill="none" stroke="#3d7969" stroke-width="20" opacity=".8"/>
+<use href="#flower" transform="translate(-115 335) scale(.9)"/><use href="#flower" transform="translate(-40 335) scale(1.2)"/><use href="#flower" transform="translate(45 340) scale(.95)"/><use href="#flower" transform="translate(135 338) scale(1.1)"/>
+<g fill="#ffeaa3"><circle cx="-140" cy="230" r="3"><animate attributeName="cy" values="230;204;230" dur="5s" repeatCount="indefinite"/></circle><circle cx="95" cy="185" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle><circle cx="10" cy="255" r="2.5"><animate attributeName="cx" values="10;32;10" dur="7s" repeatCount="indefinite"/></circle></g>
+</g>
+<g transform="translate(705 240)"><path d="M0 0Q-32-35-48-6Q-35 19 0 0Q33-35 48-6Q32 20 0 0" fill="#b4b4ec" opacity=".85"/><path d="M0 0Q-18 28-31 19Q-17 1 0 0Q19 26 32 18Q16 0 0 0" fill="#eac5e4"/><path d="M0-14V18" stroke="#f9e8fa" stroke-width="3"/><animateTransform attributeName="transform" type="translate" values="0 0;22 -17;0 0" dur="8s" repeatCount="indefinite"/></g>
+<path d="M0 430Q240 392 430 424T1200 420V480H0Z" fill="url(#ground)"/>
+<g transform="translate(70 452) scale(.72)"><use href="#flower"/></g><g transform="translate(220 453) scale(.55)"><use href="#flower"/></g><g transform="translate(380 452) scale(.7)"><use href="#flower"/></g>
+<text x="69" y="143" fill="#fff7f5" font-family="Georgia,serif" font-size="59">Shreeya Kamath</text>
+<text x="72" y="188" fill="#f0cce9" font-family="Georgia,serif" font-size="30" font-style="italic">The Midnight Glasshouse</text>
+<text x="73" y="233" fill="#e7ecf0" font-family="sans-serif" font-size="18">A little universe of curious ideas</text>
+<path d="M73 257H485" stroke="#b8d7cf" stroke-width="1.5" opacity=".7"/>
+<text x="73" y="293" fill="#f1e8f5" font-family="sans-serif" font-size="16">AI Research  ✧  Responsible ML</text>
+<text x="73" y="321" fill="#f1e8f5" font-family="sans-serif" font-size="16">Agentic Systems  ✧  Software Engineering</text>
+<text x="74" y="372" fill="#e7d5ed" font-family="Georgia,serif" font-style="italic" font-size="18">Some ideas bloom quietly. Others change everything.</text>
+</g></svg>
