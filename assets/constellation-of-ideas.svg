@@ -3,7 +3,7 @@
   <desc id="desc">Five named fields—AI, generative systems, responsible AI, agents, and software—connected as a quiet constellation above a moonlit horizon.</desc>
   <style>
     @media (prefers-reduced-motion: reduce) {
-      animate, animateTransform { display: none }
+      animate, animateTransform, animateMotion, .motion-layer { display: none }
     }
   </style>
   <defs>
@@ -22,10 +22,11 @@
       <stop offset="1" stop-color="#f0e5d4" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="nodeGlow" x="-250%" y="-250%" width="600%" height="600%"><feGaussianBlur stdDeviation="5"/></filter>
   </defs>
   <rect width="1000" height="300" rx="22" fill="url(#sky)"/>
   <ellipse cx="500" cy="268" rx="390" ry="30" fill="url(#halo)" filter="url(#soft)"/>
-  <path d="M42 262C220 250 325 274 500 260s299 10 458 0" fill="none" stroke="url(#horizon)" stroke-width="1.4">
+  <path class="motion-layer" d="M42 262C220 250 325 274 500 260s299 10 458 0" fill="none" stroke="url(#horizon)" stroke-width="1.4">
     <animate attributeName="d" dur="20s" repeatCount="indefinite" values="M42 262C220 250 325 274 500 260s299 10 458 0;M42 260C220 274 325 250 500 263s299-8 458-1;M42 262C220 250 325 274 500 260s299 10 458 0"/>
   </path>
 
@@ -35,13 +36,32 @@
     <path d="M484 145L875 148" opacity=".45"/>
   </g>
 
-  <g fill="none" stroke="#d6bdc6" stroke-width="2" stroke-linecap="round" opacity=".8">
+  <g class="motion-layer" fill="#b9cce1" filter="url(#nodeGlow)" opacity=".15">
+    <circle cx="120" cy="155" r="11"><animate attributeName="opacity" values=".08;.3;.08" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="286" cy="82" r="10"><animate attributeName="opacity" values=".07;.27;.07" begin="-2s" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="484" cy="145" r="13"><animate attributeName="opacity" values=".1;.34;.1" begin="-4s" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="70" r="10"><animate attributeName="opacity" values=".07;.28;.07" begin="-6s" dur="9.5s" repeatCount="indefinite"/></circle>
+    <circle cx="875" cy="148" r="11"><animate attributeName="opacity" values=".08;.3;.08" begin="-7s" dur="10.5s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <g class="motion-layer" fill="none" stroke="#d6bdc6" stroke-width="2" stroke-linecap="round" opacity=".8">
     <path d="M120 155L286 82L484 145L690 70L875 148" stroke-dasharray="900" stroke-dashoffset="900">
       <animate attributeName="stroke-dashoffset" values="900;0;0" keyTimes="0;.55;1" dur="18s" repeatCount="indefinite"/>
     </path>
   </g>
 
-  <g fill="#f2e9db">
+  <g class="motion-layer" fill="#f6eee5">
+    <circle r="2.6" opacity="0">
+      <animateMotion path="M120 155L286 82L484 145L690 70L875 148" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.8;.8;0;0" keyTimes="0;.12;.18;.48;.54;1" dur="19s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="2.2" opacity="0" fill="#c8d9ea">
+      <animateMotion path="M286 82L390 218L484 145L625 220L690 70" dur="23s" begin="-8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;.65;.65;0;0" keyTimes="0;.2;.26;.52;.58;1" dur="23s" begin="-8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g class="motion-layer" fill="#f2e9db">
     <circle cx="120" cy="155" r="5"><animate attributeName="r" values="4.5;5.8;4.5" dur="8s" repeatCount="indefinite"/></circle>
     <circle cx="286" cy="82" r="4"><animate attributeName="opacity" values=".65;1;.65" begin="-1.3s" dur="7s" repeatCount="indefinite"/></circle>
     <circle cx="484" cy="145" r="6"><animate attributeName="r" values="5.2;6.5;5.2" begin="-2.4s" dur="9s" repeatCount="indefinite"/></circle>
@@ -49,6 +69,12 @@
     <circle cx="875" cy="148" r="5"><animate attributeName="r" values="4.4;5.6;4.4" begin="-4.2s" dur="9.5s" repeatCount="indefinite"/></circle>
     <circle cx="390" cy="218" r="3.5" opacity=".75"/>
     <circle cx="625" cy="220" r="3.5" opacity=".75"/>
+  </g>
+
+  <g fill="#f2e9db">
+    <circle cx="120" cy="155" r="5"/><circle cx="286" cy="82" r="4"/><circle cx="484" cy="145" r="6"/>
+    <circle cx="690" cy="70" r="4.5"/><circle cx="875" cy="148" r="5"/>
+    <circle cx="390" cy="218" r="3.5" opacity=".75"/><circle cx="625" cy="220" r="3.5" opacity=".75"/>
   </g>
 
   <g fill="#dce7ea" font-family="Arial, sans-serif" font-size="12" letter-spacing="2.2">
