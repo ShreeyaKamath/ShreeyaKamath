@@ -1,68 +1,95 @@
 <div align="center">
 
-<a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M"><img src="https://images.unsplash.com/photo-1720470331470-2d6d2fcbc5a7?auto=format&fit=crop&w=1600&q=85" width="100%" alt="Authentic astrophotography: star-filled night sky above a mountain, photographed by Sharad Bhat"/></a>
+![The Forest of Forgotten Paths — animated research forest](assets/forest-of-forgotten-paths.svg)
 
-<br/>
+# 🌲 The Forest of Forgotten Paths
 
-# Shreeya Kamath
+*Every question opens a new trail.*
 
-*research, engineering & a little wonder*
+**Shreeya Kamath** · AI Research · Responsible Machine Learning · Agentic Systems · Software Engineering
 
-**Artificial Intelligence · Responsible ML · Agentic Systems · Software Engineering**
+[![Visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=forest%20visitors&color=5c826b&style=flat-square)](https://github.com/ShreeyaKamath)
 
-[![Garden visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=visitors&color=8c9d89&style=flat-square)](https://github.com/ShreeyaKamath)
-
-[**Selected work**](#selected-work) &nbsp;·&nbsp; [**Research interests**](#research-interests) &nbsp;·&nbsp; [**Toolbox**](#toolbox) &nbsp;·&nbsp; [**GitHub**](https://github.com/ShreeyaKamath?tab=repositories)
-
-<img src="assets/botanical-constellation.svg" width="88%" alt="Animated hand-drawn wildflower constellation"/>
+[**Explore the trails**](#-the-five-research-trails) · [**The research map**](#-the-research-map) · [**Field equipment**](#-field-equipment) · [**All repositories**](https://github.com/ShreeyaKamath?tab=repositories)
 
 </div>
 
-### A note from the field
+---
 
-I'm interested in the point where **mathematical ideas become useful systems**. My work moves between probabilistic inference, fairness-aware machine learning, agentic applications, and software engineering.
+## 🌿 A field note
 
-I like asking not only *can we build this?* but also *how do we know it works, and can we trust the outcome?*
+I work where **mathematical ideas meet practical intelligent systems**. I'm interested in probabilistic inference, fairness-aware ML, agentic applications, and software engineering — especially the questions that remain after a model produces an answer: *Is it reliable? Is it fair? Can we explain it?*
 
-### Selected work
+This forest is my map of those questions. The paths branch, reconnect, and occasionally lead somewhere unexpected.
 
-| Field note | Project | Focus |
+## 🧭 The research map
+
+```text
+                       A QUESTION
+                           │
+                    ┌──────┴──────┐
+                    │  Observe    │  ← data & context
+                    └──────┬──────┘
+                           │
+                     ┌─────▼─────┐
+                     │  Model    │  ← ML, PGM, LLMs
+                     └─────┬─────┘
+                           │
+                ┌──────────┼──────────┐
+                ▼          ▼          ▼
+            INFERENCE   FAIRNESS   AGENTS
+                │          │          │
+                └──────────┼──────────┘
+                           ▼
+                     EVALUATE
+                           │
+                    BUILD BETTER
+```
+
+*Not a single straight road: my interests connect theory, evaluation, and implementation.*
+
+## 🍄 The five research trails
+
+| Trail | Project | What lives here |
 |:--|:--|:--|
-| **01 · Inference & fairness** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under constrained inference |
-| **02 · Multi-agent research** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Clinical decision-support research with multiple agents |
-| **03 · Responsible AI** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
-| **04 · Applied engineering** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management with C# Windows Forms and SQL Server |
-| **05 · Interactive learning** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software |
+| **01 · The Inference Grove** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Probabilistic inference, computational budgets, and fairness-aware decisions |
+| **02 · The Agent Trail** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
+| **03 · The Fairness Clearing** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
+| **04 · The Systems Workshop** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management using C# Windows Forms and SQL Server |
+| **05 · The Learning Meadow** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software and interactive experiences |
 
-### Research interests
+## 🧠 Patterns hidden in the forest
 
-`Probabilistic graphical models` &nbsp; `Fairness evaluation` &nbsp; `Trustworthy AI` &nbsp; `Machine learning` &nbsp; `LLMs` &nbsp; `Multi-agent systems`
+| In nature | In AI & ML |
+|:--|:--|
+| 🌳 **Branches split** | Decision trees partition the feature space through successive decisions |
+| 🍃 **A canopy is interconnected** | Neural networks learn through layers of connected units |
+| 🧭 **Paths have trade-offs** | Optimization balances objectives, constraints, and computational cost |
+| ✨ **Fireflies exchange signals** | Agentic systems coordinate through messages, tools, and shared context |
+| 🌱 **Ecosystems need balance** | Fairness evaluation asks how model outcomes differ across groups |
+| 🔍 **Field observations matter** | Experiments, validation, and reproducibility ground research claims |
 
-### Toolbox
+## 🧰 Field equipment
 
-**Languages** — Python · C# · SQL · HTML/CSS
+**Languages:** `Python` · `C#` · `SQL` · `HTML/CSS`
 
-**AI & research** — Machine Learning · Probabilistic Models · Fairness Evaluation · Jupyter
+**Research:** `Machine Learning` · `Probabilistic Models` · `Fairness Evaluation` · `LLMs` · `Multi-agent Systems`
 
-**Engineering** — Git · GitHub · Docker · SQL Server
+**Engineering:** `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter`
 
 <details>
-<summary><b>✿ Open the field journal</b></summary>
+<summary><b>🔎 Open the explorer's notebook — how the forest moves</b></summary>
 
-I enjoy working across theory and implementation: developing an idea, building a prototype, running experiments, understanding limitations, and improving the design.
+The forest banner is an original, lightweight SVG illustration. A firefly follows a winding path; glowing points form a small neural-network-like graph; distant mist drifts slowly; and tiny lights pulse between the trees.
 
-The wildflower above is a small, hand-authored animated SVG: its stems draw themselves and the blossom gently breathes. It's intentionally independent of GitHub contribution counts.
+These animations run independently of commits, contribution streaks, or other GitHub activity. The network is a visual metaphor, not a claim that a model is executing inside the README. GitHub restricts scripts, so interactive model demos belong in linked project repositories or a separate website.
 
 </details>
 
 <div align="center">
 
-<img src="assets/botanical-constellation.svg" width="65%" alt="Botanical closing ornament"/>
+---
 
-<sub>Night-sky photograph by <a href="https://unsplash.com/@sharadmbhat">Sharad Bhat</a> on <a href="https://unsplash.com/photos/the-night-sky-is-filled-with-stars-above-a-mountain-PMPmm23Ce4M">Unsplash</a>, used under the Unsplash License.</sub>
-
-<br/><br/>
-
-*Stay curious. Build with care.*
+*Follow the question. Test the idea. Keep exploring.*
 
 </div>
