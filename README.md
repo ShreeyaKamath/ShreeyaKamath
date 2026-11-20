@@ -8,7 +8,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=Stargazers%20passing%20by&color=8b5cf6&style=flat-square)
 
-**M.Tech — Computer Science & Engineering (Artificial Intelligence & Decision Science)**  
 **MIT Manipal** · AI / ML · Responsible AI · Agentic Systems · Software Engineering
 
 *I enjoy turning complex ideas into thoughtful, working systems — from probabilistic inference and fairness-aware ML to multi-agent applications.*
@@ -59,13 +58,8 @@ I'm particularly interested in how to build AI systems that are **useful, reliab
 
 </details>
 
-## 📡 Signals from my GitHub galaxy
-
 <div align="center">
 
-![GitHub contribution streak](https://streak-stats.demolab.com?user=ShreeyaKamath&theme=tokyonight&hide_border=true&background=00000000&ring=BFA5FF&fire=C4B5FD&currStreakLabel=C4B5FD)
-
-[![Explore my work](https://img.shields.io/badge/Explore_All_Projects-1B2140?style=for-the-badge&logo=github&logoColor=D9C5FF)](https://github.com/ShreeyaKamath?tab=repositories)
 
 *✧ Stay curious. Build with purpose. Keep reaching for the stars. ✧*
 
