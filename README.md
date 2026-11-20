@@ -1,14 +1,14 @@
 <div align="center">
 
-![Animated ocean waves](assets/beach-banner.svg)
+![Underwater observatory banner](assets/observatory-banner.svg)
 
-# 🌊 Shreeya Kamath
+# 🪼 Shreeya Kamath
 
-### 🐚 Somewhere between curiosity and code
+### 🌊 Curiosity runs deep.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=269EAA&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Research;Building+intelligent%2C+responsible+systems;Software+Engineering+%E2%80%A2+Applied+AI;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=Beach%20visitors&color=20a4a8&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=Observatory%20visitors&color=0f8d9f&style=flat-square)
 
 **AI / ML · Responsible AI · Agentic Systems · Software Engineering**
 
@@ -16,36 +16,36 @@
 
 ---
 
-### 🏝️ Explore the shoreline
+### 🔬 Explore the observatory
 
-**Pick a beach stop to explore ↓**
+**Choose a research station ↓**
 
-[🗺️ **Explore the interactive beach portfolio (source)**](https://github.com/ShreeyaKamath/ShreeyaKamath/blob/main/index.html)
+[🪼 **Enter the interactive Underwater Observatory**](https://shreeyakamath.github.io/ShreeyaKamath/) · [View source](https://github.com/ShreeyaKamath/ShreeyaKamath/blob/main/index.html)
 
-[🐚 **Research Cove**](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) · [🐬 **Agentic Reef**](https://github.com/ShreeyaKamath/MedTrust) · [🪸 **Fairness Coral**](https://github.com/ShreeyaKamath/FAIRPATH-EDU)
+[🪼 **Inference Lab**](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) · [🐙 **Agentic Lab**](https://github.com/ShreeyaKamath/MedTrust) · [🪸 **Responsible AI Lab**](https://github.com/ShreeyaKamath/FAIRPATH-EDU)
 
-[⛵ **Engineering Harbor**](https://github.com/ShreeyaKamath/ManipalDMS) · [🏄 **Learning Wave**](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) · [🏖️ **The Whole Beach**](https://github.com/ShreeyaKamath?tab=repositories)
+[🐚 **Engineering Lab**](https://github.com/ShreeyaKamath/ManipalDMS) · [🐠 **Learning Lab**](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) · [🔎 **All Repositories**](https://github.com/ShreeyaKamath?tab=repositories)
 
-<sub>Tap any beach stop to visit a real project.</sub>
+<sub>Tap a research station to visit a real project.</sub>
 
 </div>
 
-## 🌴 What I'm exploring
+## 🌊 What I'm exploring
 
 - 🎓 Studying **AI & Decision Science**.
 - 🐚 Exploring **machine learning, fairness, probabilistic inference, and trustworthy AI**.
 - 🌊 Building with **LLMs, multi-agent systems, and applied software engineering**.
 - 🏄 Growing through research, experiments, and open-source learning.
 
-## 🐠 Featured discoveries
+## 🔬 Featured research & projects
 
-| Beach stop | Project | What it explores |
+| Station | Project | What it explores |
 |:--|:--|:--|
-| 🐚 Research Cove | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under inference constraints |
-| 🐬 Agentic Reef | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
-| 🪸 Fairness Coral | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
-| ⛵ Engineering Harbor | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management software |
-| 🏄 Learning Wave | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software development |
+| 🪼 Inference Lab | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under inference constraints |
+| 🐙 Agentic Lab | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
+| 🪸 Responsible AI Lab | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
+| 🐚 Engineering Lab | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management software |
+| 🐠 Learning Lab | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Educational software development |
 
 ## 🧰 My toolkit
 
@@ -54,7 +54,7 @@
 **Engineering:** Git · GitHub · Docker · SQL Server · Jupyter Notebooks
 
 <details>
-<summary>🗺️ Unfold the beach map — what I'm interested in</summary>
+<summary>🫧 Open the research log — what I'm interested in</summary>
 
 I'm particularly interested in how to build AI systems that are **useful, reliable, interpretable, and fair**. I like the space where theoretical ML meets real implementations: experiments, evaluation, thoughtful architecture, and reproducible research.
 
@@ -64,6 +64,6 @@ I'm particularly interested in how to build AI systems that are **useful, reliab
 
 ---
 
-*🌊 Stay curious. Make waves. Build with purpose. 🐚*
+*🪼 Build with purpose. Explore with curiosity. 🌊*
 
 </div>
