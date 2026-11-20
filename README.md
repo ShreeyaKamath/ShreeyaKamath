@@ -1,63 +1,56 @@
 <div align="center">
 
-![The Living Forest — a contribution-powered enchanted garden](assets/living-forest.svg)
+![The Midnight Glasshouse — animated moonlit conservatory](assets/midnight-glasshouse.svg)
 
-# 🌿 Welcome to my little corner of the forest
+# ✧ Welcome to the Midnight Glasshouse ✧
 
-*Where curious ideas take root, and thoughtful systems grow.*
+*Some ideas bloom quietly. Others change everything.*
 
-[![Visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=garden%20visitors&color=6caa8e&style=flat-square)](https://github.com/ShreeyaKamath)
+[![Garden visitors](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=glasshouse%20visitors&color=a783b6&style=flat-square)](https://github.com/ShreeyaKamath)
 
-**AI / ML · Responsible AI · Agentic Systems · Software Engineering**
+**AI Research · Responsible Machine Learning · Agentic Systems · Software Engineering**
 
-[🌸 **Explore the garden**](#-the-research-garden) · [🔬 **Research notes**](#-what-im-exploring) · [🧰 **My toolkit**](#-the-gardeners-toolkit) · [🌱 **All repositories**](https://github.com/ShreeyaKamath?tab=repositories)
+[🌸 Explore the garden](#-the-garden-of-projects) · [🔭 Research](#-the-observatory) · [🪴 Toolkit](#-the-workbench) · [🌙 All repositories](https://github.com/ShreeyaKamath?tab=repositories)
 
 </div>
 
 ---
 
-### 🌱 A note from the gardener
+### 🌙 Hello, I'm Shreeya
 
-I'm **Shreeya**. I like turning complicated questions into systems that actually work — especially at the intersection of **probabilistic inference, responsible machine learning, agentic AI, and software engineering**.
+I build at the intersection of **artificial intelligence, thoughtful engineering, and real-world problems**. I enjoy translating ideas into working systems — from probabilistic inference and fairness-aware ML to multi-agent applications.
 
-I care about how we build intelligent systems, how we evaluate them, and whether their decisions deserve our trust.
+I care about how intelligent systems work, how we evaluate them, and whether we can trust their decisions.
 
-### 🌺 The research garden
+### 🌷 The garden of projects
 
-*Every flower leads to a real project. Pick one to explore.*
+*Five pathways through the glasshouse. Each one leads to a real repository.*
 
-| Garden trail | Project | What grows here |
+| Pathway | Project | What you'll discover |
 |:--|:--|:--|
-| 🌸 **The Fairness Grove** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under probabilistic inference constraints |
+| 🌸 **The Fairness Grove** | [Fairness Preservation Under Computational Budgets](https://github.com/ShreeyaKamath/Fairness-Preservation-Under-Computational-Budgets-AFGML) | Fairness-aware decisions under computational inference constraints |
 | 🦋 **The Agent Conservatory** | [MedTrust](https://github.com/ShreeyaKamath/MedTrust) | Multi-agent clinical decision support research |
 | 🌷 **The Responsible AI Meadow** | [FAIRPATH-EDU](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Fairness-focused AI applications |
 | 🍃 **The Engineering Greenhouse** | [ManipalDMS](https://github.com/ShreeyaKamath/ManipalDMS) | Document management with C# Windows Forms and SQL Server |
-| 🌼 **The Learning Garden** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Interactive educational software |
+| ✨ **The Learning Pavilion** | [Interactive Learning Platform](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | Interactive educational software |
 
-### 🔬 What I'm exploring
+### 🔭 The observatory
 
-- **Research:** machine learning, probabilistic graphical models, trustworthy AI, fairness evaluation
-- **Building:** LLMs, multi-agent systems, practical software engineering
-- **Approach:** question → design → implement → experiment → evaluate
-- **Currently:** studying AI & Decision Science and growing through research and projects
+- **Research interests:** machine learning, probabilistic models, trustworthy AI, fairness evaluation
+- **Things I build:** LLM-based systems, multi-agent workflows, software applications
+- **How I work:** question → design → prototype → evaluate → improve
+- **Currently exploring:** AI & Decision Science, reproducible research, and applied engineering
 
-### 🧰 The gardener's toolkit
+### 🪴 The workbench
 
-`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter Notebooks`
+`Python` · `C#` · `SQL` · `HTML/CSS` · `Git` · `GitHub` · `Docker` · `SQL Server` · `Jupyter`
 
 <details>
-<summary>🍄 Discover the secret behind the living forest</summary>
+<summary>🗝️ A secret door: how the glasshouse comes alive</summary>
 
-**This garden is connected to real GitHub activity.**
+The scene above is an **animated SVG**: clouds drift, stars twinkle, flowers gently sway, the moon glows, and a butterfly floats through the conservatory. The animation does **not** depend on commits, contribution streaks, or daily activity. It's designed to be beautiful even during quiet periods of research and learning.
 
-- 🌿 Each contribution day can grow additional leaves and blossoms, up to a visual limit.
-- 🌺 Higher-activity days influence flower size and color.
-- ✨ Activity during the last seven days determines the number of animated fireflies.
-- 🌙 The moon, mist, and gentle animations create a living nighttime garden.
-
-A scheduled GitHub Actions workflow uses GitHub's contribution calendar to regenerate the SVG. **Contributions are not identical to commits**: GitHub may count other qualifying activity. The forest is an artistic visualization, not a precise contribution chart.
-
-*The design uses SVG because GitHub README pages don't allow arbitrary JavaScript.*
+GitHub README pages don't run custom JavaScript, so the scene uses lightweight SVG animation instead. For an interactive 3D garden, a separate website would be needed.
 
 </details>
 
@@ -65,6 +58,6 @@ A scheduled GitHub Actions workflow uses GitHub's contribution calendar to regen
 
 ---
 
-*🌱 Keep learning. Keep building. Let good ideas grow. 🌸*
+*✧ Stay curious. Build with care. Let ideas bloom. ✧*
 
 </div>
