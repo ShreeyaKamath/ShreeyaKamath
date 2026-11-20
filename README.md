@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShreeyaKamath&label=Stargazers%20passing%20by&color=8b5cf6&style=flat-square)
 
-**MIT Manipal** · AI / ML · Responsible AI · Agentic Systems · Software Engineering
+AI / ML · Responsible AI · Agentic Systems · Software Engineering
 
 *I enjoy turning complex ideas into thoughtful, working systems — from probabilistic inference and fairness-aware ML to multi-agent applications.*
 
