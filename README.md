@@ -33,6 +33,7 @@ I'm passionate about AI and Machine Learning, and curious about what thoughtful 
 | **03** | [**FAIRPATH-EDU**](https://github.com/ShreeyaKamath/FAIRPATH-EDU) | Causal and counterfactual fairness auditing for early student-risk prediction using OULAD |
 | **04** | [**ManipalDMS**](https://github.com/ShreeyaKamath/ManipalDMS) | A C# and SQL Server document-management application with role-based access and audit logging |
 | **05** | [**Interactive Learning Platform**](https://github.com/ShreeyaKamath/Interactive-Learning-Platform) | A responsive learning experience with video lessons, quizzes, accessibility, and local progress tracking |
+| **06** | [**Wrap World**](https://github.com/ShreeyaKamath/Wrap-World) | An interactive browser puzzle adventure that turns topology, wrapped spaces, and twisted geometry into playable challenges |
 
 <div align="center">
   <img src="assets/constellation-of-ideas.svg" width="82%" alt="An animated constellation connecting five fields of exploration" />
